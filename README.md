@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.211.0.VPGMIXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: mihal
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.211.0.VPGMIXM
+- tags: release-keys
+- fingerprint: Redmi/mihal/mihal:12/SP1A.210812.016/OS2.0.211.0.VPGMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.211.0.VPGMIXM-release-keys
+- repo: redmi_mihal_dump
